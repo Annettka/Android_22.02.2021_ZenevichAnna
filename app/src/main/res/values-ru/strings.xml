@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Мое первое приложение</string>
+    <string name="greeting">Привет Андроид!</string>
+    <string name="button1">Войти</string>
+    <string name="act2">Это второе активити</string>
+    <string name="share">Поделиться</string>
+    <string name="Share_text">
+        Это мое первое приложение \n
+        Если вам понравилось приложение, \n
+        пожалуйста, поделитесь им с друзьями</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="greeting">Hello Android!</string>
+    <string name="button1">Enter</string>
+    <string name="act2">This is activity two</string>
+    <string name="share">Share</string>
+    <string name="Share_text">
+        This is my first app \n
+        Please share it with your friends if you like it</string>
+</resources>
